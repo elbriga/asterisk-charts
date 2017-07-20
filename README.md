@@ -1,2 +1,4 @@
 # asterisk-charts
-Collects and display asterisk data
+Collects and displays asterisk data
+
+- Proccesses CDRs from a given day and calculates MIN/MAX simultaneous calls grouped by hour
